@@ -1,0 +1,87 @@
+source_id,stadium,capacity,city,state,current_team,league,population,womens_team,international_airport
+91,Werner Park,9023.0,Papillion,Nebraska,Omaha Storm Chasers,International League,24159.0,0,1
+95,Chickasaw Bricktown Ballpark,8500.0,Oklahoma City,Oklahoma,Oklahoma City Comets,Pacific Coast League,719849.0,0,1
+96,Dozer Park,8500.0,Peoria,Illinois,"Bradley Braves
+Peoria Chiefs","Missouri Valley Conference (NCAA)
+Midwest League",110431.0,1,1
+98,Haymarket Park,8500.0,Lincoln,Nebraska,"Lincoln Saltdogs
+Nebraska Cornhuskers","American Association of Professional Baseball
+Big Ten Conference (NCAA)",300619.0,0,0
+108,Eck Stadium,8153.0,Wichita,Kansas,Wichita State Shockers,American Conference (NCAA),400000.0,0,1
+109,Parkview Field,8100.0,Fort Wayne,Indiana,Fort Wayne TinCaps,Midwest League,275000.0,1,1
+111,Erlanger Park,8032.0,Chattanooga,Tennessee,Chattanooga Lookouts,Southern League,194144.0,0,0
+112,Lindsey Nelson Stadium,8012.0,Knoxville,Tennessee,Tennessee Volunteers,Southeastern Conference (NCAA),203991.0,0,0
+115,O'Brate Stadium,8000.0,Stillwater,Oklahoma,Oklahoma State Cowboys,Big 12 Conference (NCAA),50000.0,0,1
+120,ONEOK Field,7833.0,Tulsa,Oklahoma,Tulsa Drillers,Texas League,416209.0,0,0
+133,Wintrust Field,7365.0,Schaumburg,Illinois,Schaumburg Boomers,Frontier League,78723.0,0,0
+135,CHS Field,7210.0,St. Paul,Minnesota,St. Paul Saints,International League,396684.0,1,1
+144,Legends Field,6994.0,Lexington,Kentucky,Lexington Legends,Atlantic League of Professional Baseball,330863.0,0,0
+147,Warner Park,6750.0,Madison,Wisconsin,Madison Mallards,Northwoods League,286233.0,0,0
+156,Field of Legends,6537.0,Kansas City,Kansas,Kansas City T-Bones/Monarchs,American Association of Professional Baseball,523000.0,0,1
+162,Smokies Stadium,6412.0,Sevierville,Tennessee,none,none,203991.0,0,0
+164,Covenant Health Park,6355.0,Knoxville,Tennessee,Knoxville Smokies,Southern League,203991.0,0,0
+166,Eastwood Field,6300.0,Niles,Ohio,"Mahoning Valley Scrappers
+Youngstown State Penguins","MLB Draft League
+Horizon League (NCAA)",18116.0,0,0
+181,Duly Health and Care Field,6016.0,Joliet,Illinois,Joliet Slammers,Frontier League,152241.0,0,0
+185,The Ballpark at Jackson,6000.0,Jackson,Tennessee,Jackson Rockabillies,Prospect League,69500.0,0,0
+188,GCS Ballpark,6000.0,Sauget,Illinois,Gateway Grizzlies,Frontier League,141.0,0,0
+194,Neuroscience Group Field at Fox Cities Stadium,5900.0,Appleton,Wisconsin,Wisconsin Timber Rattlers,Midwest League,75644.0,0,0
+197,Thurman Munson Memorial Stadium,5700.0,Canton,Ohio,Canton McKinley Bulldogs,Federal League (OHSAA),69000.0,0,0
+199,Dow Diamond,5500.0,Midland,Michigan,Great Lakes Loons,Midwest League,42800.0,0,0
+207,Marion Stadium,5400.0,Marion,Illinois,"Heartland Hawks
+Thrillville Thrillbillies","Mid-West Athletic Conference (NJCAA)
+Prospect League",17148.0,0,0
+209,Veterans Memorial Stadium,5300.0,Cedar Rapids,Iowa,Cedar Rapids Kernels,Midwest League,137900.0,0,0
+214,Bosse Field,5181.0,Evansville,Indiana,Evansville Otters,Frontier League,118414.0,0,0
+215,CarShield Field,5150.0,O'Fallon,Missouri,River City Rascals,Frontier League,95360.0,0,0
+221,Danville Stadium,5028.0,Danville,Illinois,Danville Dans,Prospect League,28138.0,0,0
+227,Four Winds Field at Coveleski Stadium,5000.0,South Bend,Indiana,South Bend Cubs,Midwest League,103000.0,0,0
+234,NelsonCorp Field,5000.0,Clinton,Iowa,Clinton LumberKings,Prospect League,23900.0,0,0
+235,Mercy Health Stadium,5000.0,Avon,Ohio,Lake Erie Crushers,Frontier League,25611.0,0,0
+251,Newman Outdoor Field,4513.0,Fargo,North Dakota,"Fargo-Moorhead RedHawks
+North Dakota State Bison","American Association of Professional Baseball
+Summit League (NCAA)",138500.0,0,0
+253,C.O. Brown Stadium,4500.0,Battle Creek,Michigan,"Battle Creek Bombers
+Kellogg Community College","Northwoods League
+Michigan Community College Athletic Association (NJCAA)",52021.0,1,0
+255,Kokomo Municipal Stadium,4500.0,Kokomo,Indiana,"Indiana University Kokomo Cougars
+Kokomo Jackrabbits","River States Conference (NAIA)
+Northwoods League",60000.0,0,0
+258,Thomas More Stadium,4500.0,Florence,Kentucky,Florence Y'alls,Frontier League,32800.0,0,0
+273,Joe Becker Stadium,4200.0,Joplin,Missouri,Joplin Outlaws,Mid America League,52593.0,0,0
+277,Wade Stadium,4200.0,Duluth,Minnesota,Duluth Huskies,Northwoods League,88380.0,0,0
+286,Modern Woodmen Park,4024.0,Davenport,Iowa,Quad Cities River Bandits,Midwest League,100000.0,0,0
+290,Capital Credit Union Park,4000.0,Ashwaubenon,Wisconsin,Green Bay Booyah,Northwoods League,17491.0,0,0
+297,Jim Patterson Stadium,4000.0,Louisville,Kentucky,Louisville Cardinals,Atlantic Coast Conference (NCAA),782969.0,0,1
+303,Ray Fisher Stadium,4000.0,Ann Arbor,Michigan,Michigan Wolverines,Big Ten Conference (NCAA),122233.0,0,0
+304,Rivets Stadium,4000.0,Rockford,Illinois,"Rockford Regents
+Rockford Rivets","Northern Athletics Collegiate Conference (NCAA)
+Northwoods League",146000.0,1,0
+309,ABC Supply Stadium,3850.0,Beloit,Wisconsin,Beloit Snappers,Midwest League,36649.0,0,0
+314,Carson Park,3800.0,Eau Claire,Wisconsin,Eau Claire Express,Northwoods League,71000.0,0,0
+315,TVA Credit Union Ballpark,3800.0,Johnson City,Tennessee,Johnson City Doughboys,Appalachian League,74241.0,0,0
+323,Wisconsin Brewing Company Park,3641.0,Oconomowoc,Wisconsin,Lake Country Dockhounds,American Association of Professional Baseball,20119.0,0,0
+324,Lewis and Clark Park,3631.0,Sioux City,Iowa,Sioux City Explorers,American Association of Professional Baseball,86500.0,0,0
+325,Hawkins Field,3626.0,Nashville,Tennessee,Vanderbilt Commodores,Southeastern Conference (NCAA),721000.0,0,0
+327,Phil Welch Stadium,3600.0,St. Joseph,Missouri,St. Joseph Mustangs,M.I.N.K. League,71001.0,0,0
+328,Copeland Park,3550.0,La Crosse,Wisconsin,La Crosse Loggers,Northwoods League,50784.0,0,0
+356,Community Field,3200.0,Burlington,Iowa,Burlington Bees,Prospect League,23000.0,0,0
+358,Ozinga Field,3200.0,Crestwood,Illinois,Windy City Thunderbolts,Frontier League,10529.0,0,0
+361,Kimrey Family Stadium,3180.0,Norman,Oklahoma,Oklahoma Sooners,Southeastern Conference (NCAA),130943.0,0,0
+362,Homer Stryker Field,3171.0,Kalamazoo,Michigan,Kalamazoo Growlers,Northwoods League,73000.0,1,0
+364,UC Baseball Stadium,3085.0,Cincinnati,Ohio,Cincinnati Bearcats,Big 12 Conference (NCAA),314000.0,0,0
+372,Duane Banks Field,3000.0,Iowa City,Iowa,Iowa Hawkeyes,Big Ten Conference (NCAA),76229.0,0,0
+379,Illinois Field,3000.0,Champaign,Illinois,Illinois Fighting Illini,Big Ten Conference (NCAA),91195.0,0,0
+381,Kapco Park,3000.0,Mequon,Wisconsin,Lakeshore Chinooks,Northwoods League,25120.0,0,0
+391,VA Memorial Stadium,3000.0,Chillicothe,Ohio,Chillicothe Paints,Prospect League,22059.0,0,0
+397,League Stadium,2783.0,Huntingburg,Indiana,Dubois County Bombers,Prospect League,6522.0,0,0
+80,Classic Auto Group Park,10000.0,Eastlake,Ohio,Lake County Captains,Midwest League,17357.0,0,0
+79,LMCU Ballpark,10000.0,Comstock Park,Michigan,West Michigan Whitecaps,Midwest League,10500.0,0,0
+65,AutoZone Park,10000.0,Memphis,Tennessee,Memphis Redbirds,International League,610000.0,0,0
+56,Route 66 Stadium,10486.0,Springfield,Missouri,"Springfield Cardinals
+Missouri State Bears","Texas League
+Missouri Valley Conference (NCAA)",170000.0,0,0
+48,Northwestern Medicine Field,10923.0,Geneva,Illinois,Kane County Cougars,American Association of Professional Baseball,21114.0,0,0
+38,Victory Field,12230.0,Indianapolis,Indiana,Indianapolis Indians,International League,904000.0,0,0
+35,Louisville Slugger Field,13131.0,Louisville,Kentucky,Louisville Bats,International League,782969.0,0,0
